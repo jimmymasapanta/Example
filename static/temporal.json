@@ -1,0 +1,41 @@
+{
+    "clients":[
+       {
+          "associated_device":"CNCKHMJ5FK",
+          "associated_device_mac":"34:fc:b9:c2:17:06",
+          "band":5,
+          "channel":"100 (80 MHz)",
+          "client_type":"WIRELESS",
+          "connected_device_type":"AP",
+          "connection":"802.11ac",
+          "encryption_method":"WPA2_ENTERPRISE",
+          "group_id":3,
+          "group_name":"UDLA-TEST",
+          "ht_type":5,
+          "ip_address":"192.168.100.6",
+          "label_id":[
+             
+          ],
+          "labels":[
+             
+          ],
+          "last_connection_time":1620679236000,
+          "macaddr":"00:45:e2:12:7c:23",
+          "manufacturer":"CyberTAN Technology Inc.",
+          "maxspeed":1300,
+          "name":"Noemi",
+          "network":"Room",
+          "os_type":"Wireless Network Router",
+          "phy_type":1,
+          "radio_mac":"34:fc:b9:a1:70:70",
+          "radio_number":0,
+          "site":"Habitacion",
+          "swarm_id":"d3c00bb580c431ab79303725b2ed35571e7f54e9ba715ed455",
+          "user_role":"Room",
+          "username":"Noemi",
+          "vlan":1
+       }
+    ],
+    "count":1
+ }
+ 
